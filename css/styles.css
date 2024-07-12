@@ -22,6 +22,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    font-weight: 400;
 }
 
 /* Common Tags */
@@ -231,14 +232,12 @@ p {
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding-top: 188px;
-    padding-bottom: 188px;
   }
 
 /* h2, h3  */
 .team-title, .portfolio-title, .work-title {
     font-family: 'Roboto', sans-serif;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 36px;
     letter-spacing: 0.02em;
     text-align: center;
@@ -246,7 +245,7 @@ p {
 
 .team-name, .portfolio-name, .quality-title{
     font-family: 'Roboto', sans-serif;
-    font-weight: medium;
+    font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02em;
 }
