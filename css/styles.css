@@ -186,6 +186,7 @@ p {
 
 .hero {
     background-color: var(--dark);
+    margin:0 auto;
     padding: 188px 0;
     background-image: url(../images/hero.jpg);
     background-repeat: no-repeat;
@@ -329,6 +330,7 @@ p {
   display: flex;
   justify-content: center; 
   gap: 24px;
+  margin-top: 8px;
 }
 
 .social-item {
